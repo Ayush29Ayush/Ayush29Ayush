@@ -50,7 +50,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Ayush29Ayush/github-readme-streak-stats">
+    <!-- <a href="https://github.com/Ayush29Ayush/github-readme-streak-stats"> -->
+    <a >
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Senapati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush29Ayush&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -58,15 +59,18 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Ayush29Ayush/github-readme-streak-stats"><img alt="Ayush Senapati's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayush29Ayush&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ayush29Ayush/github-readme-streak-stats"><img alt="Ayush Senapati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush29Ayush&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <!-- <a href="https://github.com/Ayush29Ayush/github-readme-streak-stats"><img alt="Ayush Senapati's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayush29Ayush&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+    <a ><img alt="Ayush Senapati's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayush29Ayush&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <!-- <a href="https://github.com/Ayush29Ayush/github-readme-streak-stats"><img alt="Ayush Senapati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush29Ayush&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <a ><img alt="Ayush Senapati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush29Ayush&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/Ayush29Ayush/github-readme-streak-stats"><img alt="Ayush Senapati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayush29Ayush&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Ayush29Ayush/github-readme-streak-stats"><img alt="Ayush Senapati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayush29Ayush&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<a ><img alt="Ayush Senapati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayush29Ayush&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
