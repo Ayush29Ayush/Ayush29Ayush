@@ -4,9 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Ayush;+An+Tech+Enthusiast+🔆;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠️;A+Problem+Solver+🕵;">
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
 <!-- # Hi, I am Ayush! Great to see you here! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> -->
 
-I am Ayush Senapati, currently pursuing my B.Tech degree in Electrical and Electronics from [VIT Vellore](https://vit.ac.in/). I am a tech enthusiast who is always open to collaborate on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+**I am Ayush Senapati, currently pursuing my B.Tech degree in Electrical and Electronics from [VIT Vellore](https://vit.ac.in/). I am a tech enthusiast who is always open to collaborate on projects and innovative/disruptive ideas.**
+<br>
+
+## Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayushsenapati123@gmail.com)](mailto:ayushsenapati123@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-senapati-a531b8145/)](https://www.linkedin.com/in/ayush-senapati-a531b8145/)
