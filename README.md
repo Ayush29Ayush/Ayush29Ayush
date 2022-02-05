@@ -1,6 +1,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 
-# Hi, I am Ayush! Great to see you here! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Ayush;+An+Tech+Enthusiast+🔆;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠️;A+Problem+Solver+🕵;">
+</p>
+
+<!-- # Hi, I am Ayush! Great to see you here! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> -->
 
 I am Ayush Senapati, currently pursuing my B.Tech degree in Electrical and Electronics from [VIT Vellore](https://vit.ac.in/). I am a tech enthusiast who is always open to collaborate on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
