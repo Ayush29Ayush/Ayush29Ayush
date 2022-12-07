@@ -22,7 +22,7 @@
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/channel_id) -->
 
 <!-- [![Ayush's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush29Ayush&theme=xcode)](https://github.com/Ayush29Ayush) -->
-[![Ayush's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush29Ayush)](https://github.com/Ayush29Ayush)
+[![Ayush's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush29Ayush&theme=merko)](https://github.com/Ayush29Ayush)
 
 ## 👨🏻‍💻 Coding Profiles
 
