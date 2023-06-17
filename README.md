@@ -79,14 +79,14 @@
 <table>
 <tr>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ayush29Ayush&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/> -->
-<td><img src="https://github-readme-stats.vercel.app/api?username=Ayush29Ayush&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /> </td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush29Ayush&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" /> </td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Ayush29Ayush&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> </td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush29Ayush&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /> </td>
 </tr>
 </table>
 
 <p align="center">
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush29Ayush&theme=tokyonight" /> -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush29Ayush&theme=tokyonight&hide_border=false" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush29Ayush&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
