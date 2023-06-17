@@ -79,7 +79,8 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush29Ayush&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ayush29Ayush&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush29Ayush&theme=vue-dark&show_icons=true&hide_border=false&count_private=trueline_height=20&theme=tokyonight"
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush29Ayush&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
