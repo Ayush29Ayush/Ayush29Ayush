@@ -86,6 +86,7 @@
 
 <p align="center">
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush29Ayush&theme=tokyonight" /> -->
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush29Ayush&theme=tokyonight&hide_border=true" /> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush29Ayush&theme=tokyonight&hide_border=true" />
 </p>
 
